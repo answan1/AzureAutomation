@@ -1,0 +1,1 @@
+New-Resource -Template "AzureSql" -Name "WebSites" -TargetDir "E:\AzureARM\AzureAutomation\Resource Deployment\Env-Test\HC006T-MICloud" -TemplatesDir "E:\AzureARM\AzureAutomation\Templates"

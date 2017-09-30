@@ -1,0 +1,3 @@
+PowerShell language features are only supported on PowerShell version 3 and above. The current version is 2.0.
+
+The terminal process terminated with exit code: 1
